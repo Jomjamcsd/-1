@@ -1,0 +1,17 @@
+public class Store {
+    public string Name;
+    public double Number;
+    public string Owner;
+    public double Value;
+    
+    public Store(strig Name,
+     double Number,
+     String Owner,
+     double Value){
+        this.Name = Name;
+        this.Number = Number;
+        this.Owner = Owner;
+        this.Value = Value;
+     }
+        
+}
